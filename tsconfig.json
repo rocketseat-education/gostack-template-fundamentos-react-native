@@ -63,5 +63,6 @@
     "metro.config.js",
     "jest.config.js"
   ],
-  "files": ["@types/custom.d.ts"]
+  "include": ["**/src/**/*.ts", "**/src/**/*.tsx"],
+  "files": ["src/@types/index.d.ts"]
 }
