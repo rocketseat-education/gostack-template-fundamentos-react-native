@@ -30,8 +30,8 @@ import { CartProvider, useCart } from '../../hooks/cart';
 const TestComponent: React.FC = () => {
   const { products, addToCart, increment, decrement } = useCart();
 
-  function handleAddToCart(): void {
-    addToCart({
+  async function handleAddToCart(): Promise<void> {
+    await addToCart({
       id: '1234',
       title: 'Test product',
       image_url: 'test',
@@ -40,12 +40,12 @@ const TestComponent: React.FC = () => {
     });
   }
 
-  function handleIncrement(): void {
-    increment('1234');
+  async function handleIncrement(): Promise<void> {
+    await increment('1234');
   }
 
-  function handleDecrement(): void {
-    decrement('1234');
+  async function handleDecrement(): Promise<void> {
+    await decrement('1234');
   }
 
   return (
@@ -89,8 +89,8 @@ describe('Cart Context', () => {
       </CartProvider>,
     );
 
-    act(() => {
-      fireEvent.press(getByTestId('add-to-cart'));
+    await act(async () => {
+      await fireEvent.press(getByTestId('add-to-cart'));
     });
 
     expect(getByText('Test product')).toBeTruthy();
@@ -104,12 +104,12 @@ describe('Cart Context', () => {
       </CartProvider>,
     );
 
-    act(() => {
-      fireEvent.press(getByTestId('add-to-cart'));
+    await act(async () => {
+      await fireEvent.press(getByTestId('add-to-cart'));
     });
 
-    act(() => {
-      fireEvent.press(getByTestId('increment'));
+    await act(async () => {
+      await fireEvent.press(getByTestId('increment'));
     });
 
     expect(getByText('2')).toBeTruthy();
@@ -122,16 +122,16 @@ describe('Cart Context', () => {
       </CartProvider>,
     );
 
-    act(() => {
-      fireEvent.press(getByTestId('add-to-cart'));
+    await act(async () => {
+      await fireEvent.press(getByTestId('add-to-cart'));
     });
 
-    act(() => {
-      fireEvent.press(getByTestId('increment'));
+    await act(async () => {
+      await fireEvent.press(getByTestId('increment'));
     });
 
-    act(() => {
-      fireEvent.press(getByTestId('decrement'));
+    await act(async () => {
+      await fireEvent.press(getByTestId('decrement'));
     });
 
     expect(getByText('1')).toBeTruthy();
@@ -173,9 +173,9 @@ describe('Cart Context', () => {
     );
 
     await act(async () => {
-      fireEvent.press(getByTestId('add-to-cart'));
-      fireEvent.press(getByTestId('increment'));
-      fireEvent.press(getByTestId('decrement'));
+      await fireEvent.press(getByTestId('add-to-cart'));
+      await fireEvent.press(getByTestId('increment'));
+      await fireEvent.press(getByTestId('decrement'));
     });
 
     expect(mockedAsyncStorage.setItem).toHaveBeenCalledTimes(3);
