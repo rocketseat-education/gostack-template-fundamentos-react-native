@@ -89,12 +89,12 @@ describe('Cart Context', () => {
       </CartProvider>,
     );
 
-    act(() => {
+    await act(async () => {
       fireEvent.press(getByTestId('add-to-cart'));
     });
 
-    expect(getByText('Test product')).toBeTruthy();
-    expect(getByText('1')).toBeTruthy();
+    await wait(() => expect(getByText('Test product')).toBeTruthy());
+    await wait(() => expect(getByText('1')).toBeTruthy());
   });
 
   it('should be able to increment quantity', async () => {
@@ -104,15 +104,15 @@ describe('Cart Context', () => {
       </CartProvider>,
     );
 
-    act(() => {
+    await act(async () => {
       fireEvent.press(getByTestId('add-to-cart'));
     });
 
-    act(() => {
+    await act(async () => {
       fireEvent.press(getByTestId('increment'));
     });
 
-    expect(getByText('2')).toBeTruthy();
+    await wait(async () => expect(getByText('2')).toBeTruthy());
   });
 
   it('should be able to decrement quantity', async () => {
@@ -122,19 +122,19 @@ describe('Cart Context', () => {
       </CartProvider>,
     );
 
-    act(() => {
+    await act(async () => {
       fireEvent.press(getByTestId('add-to-cart'));
     });
 
-    act(() => {
+    await act(async () => {
       fireEvent.press(getByTestId('increment'));
     });
 
-    act(() => {
+    await act(async () => {
       fireEvent.press(getByTestId('decrement'));
     });
 
-    expect(getByText('1')).toBeTruthy();
+    await wait(() => expect(getByText('1')).toBeTruthy());
   });
 
   it('should load products from AsyncStorage', async () => {
@@ -162,7 +162,7 @@ describe('Cart Context', () => {
 
     await wait(() => expect(getByText('Test product')).toBeTruthy());
 
-    expect(getByText('Test product')).toBeTruthy();
+    await wait(() => expect(getByText('Test product')).toBeTruthy());
   });
 
   it('should store products in AsyncStorage while adding, incrementing and decrementing', async () => {
@@ -184,6 +184,8 @@ describe('Cart Context', () => {
       fireEvent.press(getByTestId('decrement'));
     });
 
-    expect(mockedAsyncStorage.setItem).toHaveBeenCalledTimes(3);
+    await wait(() =>
+      expect(mockedAsyncStorage.setItem).toHaveBeenCalledTimes(3),
+    );
   });
 });
