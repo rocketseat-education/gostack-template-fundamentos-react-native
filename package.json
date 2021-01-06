@@ -14,7 +14,7 @@
     "@react-native-community/masked-view": "^0.1.10",
     "@react-navigation/native": "^5.1.5",
     "@react-navigation/stack": "^5.2.10",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "intl": "^1.2.5",
     "json-server": "^0.16.1",
     "react": "16.11.0",
