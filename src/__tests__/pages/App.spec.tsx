@@ -104,6 +104,6 @@ describe('Dashboard', () => {
       fireEvent.press(getByTestId('add-to-cart-1234'));
     });
 
-    expect(addToCart).toHaveBeenCalledWith(products[0]);
+    expect(addToCart).toHaveBeenCalledWith({ ...products[0], quantity: 1 });
   });
 });
