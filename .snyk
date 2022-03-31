@@ -122,3 +122,213 @@ patch:
         patched: '2021-10-22T13:32:37.639Z'
     - react-native > @react-native-community/cli > metro > metro-config > metro > metro-transform-worker > babel-preset-fbjs > @babel/plugin-proposal-class-properties > @babel/helper-create-class-features-plugin > @babel/helper-replace-supers > @babel/traverse > @babel/helper-function-name > @babel/helper-get-function-arity > @babel/types > lodash:
         patched: '2021-10-22T13:32:37.639Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro > @babel/types > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro > async > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro > @babel/template > @babel/types > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro > metro-source-map > @babel/types > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro-react-native-babel-transformer > metro-source-map > @babel/types > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro-config > metro > @babel/types > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro > metro-transform-worker > @babel/types > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro-config > metro > async > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro > metro-react-native-babel-preset > @babel/plugin-transform-block-scoping > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro-react-native-babel-transformer > metro-react-native-babel-preset > @babel/plugin-transform-block-scoping > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro-react-native-babel-transformer > babel-preset-fbjs > @babel/plugin-transform-block-scoping > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro > metro-react-native-babel-preset > @babel/plugin-transform-sticky-regex > @babel/helper-regex > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro-react-native-babel-transformer > metro-react-native-babel-preset > @babel/plugin-transform-sticky-regex > @babel/helper-regex > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro > metro-transform-plugins > @babel/template > @babel/types > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro-config > metro > @babel/template > @babel/types > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro > metro-babel-transformer > metro-source-map > @babel/types > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro-react-native-babel-transformer > metro-babel-transformer > metro-source-map > @babel/types > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro-config > metro > metro-source-map > @babel/types > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro > metro-transform-worker > metro-source-map > @babel/types > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro > metro-symbolicate > metro-source-map > @babel/types > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro > metro-config > metro > @babel/types > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro > metro-transform-worker > metro > @babel/types > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro-config > metro > metro-transform-worker > @babel/types > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro > metro-config > metro > async > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro > metro-transform-worker > metro > async > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro-config > metro > metro-react-native-babel-preset > @babel/plugin-transform-block-scoping > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro > metro-transform-worker > babel-preset-fbjs > @babel/plugin-transform-block-scoping > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro-react-native-babel-transformer > babel-preset-fbjs > @babel/plugin-transform-modules-commonjs > @babel/helper-module-transforms > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro-config > metro > metro-react-native-babel-preset > @babel/plugin-transform-sticky-regex > @babel/helper-regex > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro-config > metro > metro-transform-plugins > @babel/template > @babel/types > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro > metro-transform-worker > metro-transform-plugins > @babel/template > @babel/types > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro > metro-config > metro > @babel/template > @babel/types > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro > metro-transform-worker > metro > @babel/template > @babel/types > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro-config > metro > metro-babel-transformer > metro-source-map > @babel/types > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro > metro-transform-worker > metro-babel-transformer > metro-source-map > @babel/types > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro > metro-config > metro > metro-source-map > @babel/types > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro > metro-transform-worker > metro > metro-source-map > @babel/types > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro-config > metro > metro-transform-worker > metro-source-map > @babel/types > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro-config > metro > metro-symbolicate > metro-source-map > @babel/types > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro > metro-react-native-babel-preset > @babel/plugin-transform-unicode-regex > @babel/helper-create-regexp-features-plugin > @babel/helper-regex > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro-react-native-babel-transformer > metro-react-native-babel-preset > @babel/plugin-transform-unicode-regex > @babel/helper-create-regexp-features-plugin > @babel/helper-regex > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro-react-native-babel-transformer > babel-preset-fbjs > @babel/plugin-transform-object-super > @babel/helper-replace-supers > @babel/traverse > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro > metro-config > metro > metro-transform-worker > @babel/types > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro > metro-config > metro > metro-react-native-babel-preset > @babel/plugin-transform-block-scoping > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro > metro-transform-worker > metro > metro-react-native-babel-preset > @babel/plugin-transform-block-scoping > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro-config > metro > metro-transform-worker > babel-preset-fbjs > @babel/plugin-transform-block-scoping > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro > metro-transform-worker > babel-preset-fbjs > @babel/plugin-transform-modules-commonjs > @babel/helper-module-transforms > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro > metro-react-native-babel-preset > @babel/plugin-transform-exponentiation-operator > @babel/helper-builder-binary-assignment-operator-visitor > @babel/helper-explode-assignable-expression > @babel/traverse > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro-react-native-babel-transformer > metro-react-native-babel-preset > @babel/plugin-transform-exponentiation-operator > @babel/helper-builder-binary-assignment-operator-visitor > @babel/helper-explode-assignable-expression > @babel/traverse > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro-react-native-babel-transformer > babel-preset-fbjs > @babel/plugin-transform-modules-commonjs > @babel/helper-module-transforms > @babel/helper-replace-supers > @babel/traverse > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro > metro-config > metro > metro-react-native-babel-preset > @babel/plugin-transform-sticky-regex > @babel/helper-regex > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro > metro-transform-worker > metro > metro-react-native-babel-preset > @babel/plugin-transform-sticky-regex > @babel/helper-regex > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro > metro-config > metro > metro-transform-plugins > @babel/template > @babel/types > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro > metro-transform-worker > metro > metro-transform-plugins > @babel/template > @babel/types > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro-config > metro > metro-transform-worker > metro-transform-plugins > @babel/template > @babel/types > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro > metro-config > metro > metro-babel-transformer > metro-source-map > @babel/types > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro > metro-transform-worker > metro > metro-babel-transformer > metro-source-map > @babel/types > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro-config > metro > metro-transform-worker > metro-babel-transformer > metro-source-map > @babel/types > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro > metro-config > metro > metro-transform-worker > metro-source-map > @babel/types > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro > metro-config > metro > metro-symbolicate > metro-source-map > @babel/types > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro > metro-transform-worker > metro > metro-symbolicate > metro-source-map > @babel/types > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro-config > metro > metro-react-native-babel-preset > @babel/plugin-transform-unicode-regex > @babel/helper-create-regexp-features-plugin > @babel/helper-regex > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro > metro-transform-worker > babel-preset-fbjs > @babel/plugin-transform-object-super > @babel/helper-replace-supers > @babel/traverse > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro > metro-config > metro > metro-transform-worker > babel-preset-fbjs > @babel/plugin-transform-block-scoping > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro-config > metro > metro-transform-worker > babel-preset-fbjs > @babel/plugin-transform-modules-commonjs > @babel/helper-module-transforms > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro > metro-react-native-babel-preset > @babel/plugin-transform-exponentiation-operator > @babel/helper-builder-binary-assignment-operator-visitor > @babel/helper-explode-assignable-expression > @babel/traverse > @babel/generator > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro-react-native-babel-transformer > metro-react-native-babel-preset > @babel/plugin-transform-exponentiation-operator > @babel/helper-builder-binary-assignment-operator-visitor > @babel/helper-explode-assignable-expression > @babel/traverse > @babel/generator > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro-react-native-babel-transformer > babel-preset-fbjs > @babel/plugin-transform-modules-commonjs > @babel/helper-module-transforms > @babel/helper-replace-supers > @babel/traverse > @babel/generator > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro-config > metro > metro-react-native-babel-preset > @babel/plugin-transform-exponentiation-operator > @babel/helper-builder-binary-assignment-operator-visitor > @babel/helper-explode-assignable-expression > @babel/traverse > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro > metro-transform-worker > babel-preset-fbjs > @babel/plugin-transform-modules-commonjs > @babel/helper-module-transforms > @babel/helper-replace-supers > @babel/traverse > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro > metro-config > metro > metro-transform-worker > metro-transform-plugins > @babel/template > @babel/types > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro > metro-config > metro > metro-transform-worker > metro-babel-transformer > metro-source-map > @babel/types > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro > metro-config > metro > metro-react-native-babel-preset > @babel/plugin-transform-unicode-regex > @babel/helper-create-regexp-features-plugin > @babel/helper-regex > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro > metro-transform-worker > metro > metro-react-native-babel-preset > @babel/plugin-transform-unicode-regex > @babel/helper-create-regexp-features-plugin > @babel/helper-regex > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro-config > metro > metro-transform-worker > babel-preset-fbjs > @babel/plugin-transform-object-super > @babel/helper-replace-supers > @babel/traverse > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro > metro-config > metro > metro-transform-worker > babel-preset-fbjs > @babel/plugin-transform-modules-commonjs > @babel/helper-module-transforms > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro > metro-react-native-babel-preset > @babel/plugin-transform-exponentiation-operator > @babel/helper-builder-binary-assignment-operator-visitor > @babel/helper-explode-assignable-expression > @babel/traverse > @babel/helper-split-export-declaration > @babel/types > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro-react-native-babel-transformer > metro-react-native-babel-preset > @babel/plugin-transform-exponentiation-operator > @babel/helper-builder-binary-assignment-operator-visitor > @babel/helper-explode-assignable-expression > @babel/traverse > @babel/helper-split-export-declaration > @babel/types > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro-react-native-babel-transformer > babel-preset-fbjs > @babel/plugin-transform-modules-commonjs > @babel/helper-module-transforms > @babel/helper-replace-supers > @babel/traverse > @babel/helper-split-export-declaration > @babel/types > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro-config > metro > metro-react-native-babel-preset > @babel/plugin-transform-exponentiation-operator > @babel/helper-builder-binary-assignment-operator-visitor > @babel/helper-explode-assignable-expression > @babel/traverse > @babel/generator > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro > metro-transform-worker > babel-preset-fbjs > @babel/plugin-transform-modules-commonjs > @babel/helper-module-transforms > @babel/helper-replace-supers > @babel/traverse > @babel/generator > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro > metro-config > metro > metro-react-native-babel-preset > @babel/plugin-transform-exponentiation-operator > @babel/helper-builder-binary-assignment-operator-visitor > @babel/helper-explode-assignable-expression > @babel/traverse > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro > metro-transform-worker > metro > metro-react-native-babel-preset > @babel/plugin-transform-exponentiation-operator > @babel/helper-builder-binary-assignment-operator-visitor > @babel/helper-explode-assignable-expression > @babel/traverse > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro-config > metro > metro-transform-worker > babel-preset-fbjs > @babel/plugin-transform-modules-commonjs > @babel/helper-module-transforms > @babel/helper-replace-supers > @babel/traverse > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro > metro-config > metro > metro-transform-worker > babel-preset-fbjs > @babel/plugin-transform-object-super > @babel/helper-replace-supers > @babel/traverse > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro > metro-react-native-babel-preset > @babel/plugin-transform-exponentiation-operator > @babel/helper-builder-binary-assignment-operator-visitor > @babel/helper-explode-assignable-expression > @babel/traverse > @babel/helper-function-name > @babel/helper-get-function-arity > @babel/types > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro-react-native-babel-transformer > metro-react-native-babel-preset > @babel/plugin-transform-exponentiation-operator > @babel/helper-builder-binary-assignment-operator-visitor > @babel/helper-explode-assignable-expression > @babel/traverse > @babel/helper-function-name > @babel/helper-get-function-arity > @babel/types > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro-react-native-babel-transformer > babel-preset-fbjs > @babel/plugin-transform-modules-commonjs > @babel/helper-module-transforms > @babel/helper-replace-supers > @babel/traverse > @babel/helper-function-name > @babel/helper-get-function-arity > @babel/types > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro-config > metro > metro-react-native-babel-preset > @babel/plugin-transform-exponentiation-operator > @babel/helper-builder-binary-assignment-operator-visitor > @babel/helper-explode-assignable-expression > @babel/traverse > @babel/helper-split-export-declaration > @babel/types > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro > metro-transform-worker > babel-preset-fbjs > @babel/plugin-transform-modules-commonjs > @babel/helper-module-transforms > @babel/helper-replace-supers > @babel/traverse > @babel/helper-split-export-declaration > @babel/types > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro > metro-config > metro > metro-react-native-babel-preset > @babel/plugin-transform-exponentiation-operator > @babel/helper-builder-binary-assignment-operator-visitor > @babel/helper-explode-assignable-expression > @babel/traverse > @babel/generator > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro > metro-transform-worker > metro > metro-react-native-babel-preset > @babel/plugin-transform-exponentiation-operator > @babel/helper-builder-binary-assignment-operator-visitor > @babel/helper-explode-assignable-expression > @babel/traverse > @babel/generator > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro-config > metro > metro-transform-worker > babel-preset-fbjs > @babel/plugin-transform-modules-commonjs > @babel/helper-module-transforms > @babel/helper-replace-supers > @babel/traverse > @babel/generator > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro > metro-config > metro > metro-transform-worker > babel-preset-fbjs > @babel/plugin-transform-modules-commonjs > @babel/helper-module-transforms > @babel/helper-replace-supers > @babel/traverse > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro-config > metro > metro-react-native-babel-preset > @babel/plugin-transform-exponentiation-operator > @babel/helper-builder-binary-assignment-operator-visitor > @babel/helper-explode-assignable-expression > @babel/traverse > @babel/helper-function-name > @babel/helper-get-function-arity > @babel/types > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro > metro-transform-worker > babel-preset-fbjs > @babel/plugin-transform-modules-commonjs > @babel/helper-module-transforms > @babel/helper-replace-supers > @babel/traverse > @babel/helper-function-name > @babel/helper-get-function-arity > @babel/types > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro > metro-config > metro > metro-react-native-babel-preset > @babel/plugin-transform-exponentiation-operator > @babel/helper-builder-binary-assignment-operator-visitor > @babel/helper-explode-assignable-expression > @babel/traverse > @babel/helper-split-export-declaration > @babel/types > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro > metro-transform-worker > metro > metro-react-native-babel-preset > @babel/plugin-transform-exponentiation-operator > @babel/helper-builder-binary-assignment-operator-visitor > @babel/helper-explode-assignable-expression > @babel/traverse > @babel/helper-split-export-declaration > @babel/types > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro-config > metro > metro-transform-worker > babel-preset-fbjs > @babel/plugin-transform-modules-commonjs > @babel/helper-module-transforms > @babel/helper-replace-supers > @babel/traverse > @babel/helper-split-export-declaration > @babel/types > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro > metro-config > metro > metro-transform-worker > babel-preset-fbjs > @babel/plugin-transform-modules-commonjs > @babel/helper-module-transforms > @babel/helper-replace-supers > @babel/traverse > @babel/generator > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro > metro-config > metro > metro-react-native-babel-preset > @babel/plugin-transform-exponentiation-operator > @babel/helper-builder-binary-assignment-operator-visitor > @babel/helper-explode-assignable-expression > @babel/traverse > @babel/helper-function-name > @babel/helper-get-function-arity > @babel/types > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro > metro-transform-worker > metro > metro-react-native-babel-preset > @babel/plugin-transform-exponentiation-operator > @babel/helper-builder-binary-assignment-operator-visitor > @babel/helper-explode-assignable-expression > @babel/traverse > @babel/helper-function-name > @babel/helper-get-function-arity > @babel/types > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro-config > metro > metro-transform-worker > babel-preset-fbjs > @babel/plugin-transform-modules-commonjs > @babel/helper-module-transforms > @babel/helper-replace-supers > @babel/traverse > @babel/helper-function-name > @babel/helper-get-function-arity > @babel/types > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro > metro-config > metro > metro-transform-worker > babel-preset-fbjs > @babel/plugin-transform-modules-commonjs > @babel/helper-module-transforms > @babel/helper-replace-supers > @babel/traverse > @babel/helper-split-export-declaration > @babel/types > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro > metro-config > metro > metro-transform-worker > babel-preset-fbjs > @babel/plugin-transform-modules-commonjs > @babel/helper-module-transforms > @babel/helper-replace-supers > @babel/traverse > @babel/helper-function-name > @babel/helper-get-function-arity > @babel/types > lodash:
+        patched: '2022-03-31T21:11:28.148Z'
