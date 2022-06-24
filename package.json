@@ -20,7 +20,7 @@
     "intl": "^1.2.5",
     "json-server": "^0.16.3",
     "react": "16.11.0",
-    "react-native": "0.68.0",
+    "react-native": "0.69.0",
     "react-native-gesture-handler": "^1.6.1",
     "react-native-iphone-x-helper": "^1.2.1",
     "react-native-reanimated": "^2.3.0",
