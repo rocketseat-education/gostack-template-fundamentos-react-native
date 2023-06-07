@@ -34,7 +34,8 @@ export const Product = styled.View`
   padding: 16px 16px;
   border-radius: 5px;
   margin: 8px;
-  flex: 1;
+  height: 241px;
+  width: auto;
 `;
 
 export const ProductImage = styled.Image`
